@@ -1,3 +1,1 @@
-This is a tutorial test of Github.
-
-Testing changes to file.
+I'm a novice programmer with lots of experience in VB, but limited experience with other languages.
